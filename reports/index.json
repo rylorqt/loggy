@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-193554-kpwv",
+      "title": "Dviniya, Vape Onion Star",
+      "commanders": [
+        "Dviniya",
+        "Vape Onion Star"
+      ],
+      "dateStart": "2026-07-07T23:35:54.000Z",
+      "dateEnd": "2026-07-08T02:54:53.000Z",
+      "dateLabel": "7/7/2026, 7:35:54 PM - 7/7/2026, 10:54:53 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260707-193554-kpwv",
+      "summary": {
+        "borderlandsPct": 0.8888888888888888,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 40,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260708-005920-9i08",
       "title": "Legion Timebender",
       "commanders": [
