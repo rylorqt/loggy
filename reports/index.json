@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260704-001532-v8wb",
+      "title": "Cinnabae, Paralda",
+      "commanders": [
+        "Cinnabae",
+        "Paralda"
+      ],
+      "dateStart": "2026-07-04T04:15:32.000Z",
+      "dateEnd": "2026-07-04T05:56:58.000Z",
+      "dateLabel": "7/4/2026, 12:15:32 AM - 7/4/2026, 1:56:58 AM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260704-001532-v8wb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 53,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260703-220636-oaly",
       "title": "B U B B L E C A R",
       "commanders": [
