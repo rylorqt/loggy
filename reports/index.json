@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-220636-oaly",
+      "title": "B U B B L E C A R",
+      "commanders": [
+        "B U B B L E C A R"
+      ],
+      "dateStart": "2026-07-04T02:06:36.000Z",
+      "dateEnd": "2026-07-04T03:52:48.000Z",
+      "dateLabel": "7/3/2026, 10:06:36 PM - 7/3/2026, 11:52:48 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260703-220636-oaly",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 54,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260705-202946-4ig1",
       "title": "Chilly Penguinz",
       "commanders": [
