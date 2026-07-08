@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-230227-65kh",
+      "title": "Haem Senpai",
+      "commanders": [
+        "Haem Senpai"
+      ],
+      "dateStart": "2026-07-07T03:02:27.000Z",
+      "dateEnd": "2026-07-07T03:20:06.000Z",
+      "dateLabel": "7/6/2026, 11:02:27 PM - 7/6/2026, 11:20:06 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260706-230227-65kh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 38,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260707-193554-kpwv",
       "title": "Dviniya, Vape Onion Star",
       "commanders": [
