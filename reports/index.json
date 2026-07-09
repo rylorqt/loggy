@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-200711-igtg",
+      "title": "B U B B L E C A R, On Desh",
+      "commanders": [
+        "B U B B L E C A R",
+        "On Desh"
+      ],
+      "dateStart": "2026-07-09T00:07:11.000Z",
+      "dateEnd": "2026-07-09T00:47:07.000Z",
+      "dateLabel": "7/8/2026, 8:07:11 PM - 7/8/2026, 8:47:07 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260708-200711-igtg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260704-001532-v8wb",
       "title": "Cinnabae, Paralda",
       "commanders": [
