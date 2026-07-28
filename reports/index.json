@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260727-215226-b1fk",
+      "title": "Aeryn Tyrell, Bitter Lemon Haem",
+      "commanders": [
+        "Aeryn Tyrell",
+        "Bitter Lemon Haem"
+      ],
+      "dateStart": "2026-07-28T01:52:26.000Z",
+      "dateEnd": "2026-07-28T03:01:18.000Z",
+      "dateLabel": "7/27/2026, 9:52:26 PM - 7/27/2026, 11:01:18 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260727-215226-b1fk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260720-221420-jz4k",
       "title": "Bitter Lemon Haem",
       "commanders": [
