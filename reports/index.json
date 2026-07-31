@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-212009-9sh8",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "dateStart": "2026-07-31T01:20:09.000Z",
+      "dateEnd": "2026-07-31T02:11:30.000Z",
+      "dateLabel": "7/30/2026, 9:20:09 PM - 7/30/2026, 10:11:30 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260730-212009-9sh8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260727-215226-b1fk",
       "title": "Aeryn Tyrell, Bitter Lemon Haem",
       "commanders": [
