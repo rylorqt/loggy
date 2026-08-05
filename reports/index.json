@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-214543-vu13",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "dateStart": "2026-08-05T01:45:43.000Z",
+      "dateEnd": "2026-08-05T02:22:19.000Z",
+      "dateLabel": "8/4/2026, 9:45:43 PM - 8/4/2026, 10:22:19 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260804-214543-vu13",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260803-215617-bldu",
       "title": "Bitter Lemon Haem",
       "commanders": [
