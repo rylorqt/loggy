@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260811-214026-z04n",
+      "title": "Deshka Il, Modus Gnosis",
+      "commanders": [
+        "Deshka Il",
+        "Modus Gnosis"
+      ],
+      "dateStart": "2026-08-12T01:40:26.000Z",
+      "dateEnd": "2026-08-12T02:28:00.000Z",
+      "dateLabel": "8/11/2026, 9:40:26 PM - 8/11/2026, 10:28:00 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260811-214026-z04n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260810-222024-c9ib",
       "title": "Bitter Lemon Haem",
       "commanders": [
