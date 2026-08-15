@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-232613-k6gr",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "dateStart": "2026-08-15T03:26:13.000Z",
+      "dateEnd": "2026-08-15T04:41:14.000Z",
+      "dateLabel": "8/14/2026, 11:26:13 PM - 8/15/2026, 12:41:14 AM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260814-232613-k6gr",
+      "summary": {
+        "borderlandsPct": 0.3548387096774194,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260811-214026-z04n",
       "title": "Deshka Il, Modus Gnosis",
       "commanders": [
