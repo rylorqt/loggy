@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-212626-5udi",
+      "title": "Bitter Lemon Haem, Eryn Tyrell",
+      "commanders": [
+        "Bitter Lemon Haem",
+        "Eryn Tyrell"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-08-18T01:26:26.000Z",
+      "dateEnd": "2026-08-18T02:27:19.000Z",
+      "dateLabel": "8/17/2026, 9:26:26 PM - 8/17/2026, 10:27:19 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260817-212626-5udi",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260816-223744-5otr",
       "title": "Vape Onion Star",
       "commanders": [
