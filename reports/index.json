@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260819-212634-i0ip",
+      "title": "Vape Onion Star",
+      "commanders": [
+        "Vape Onion Star"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-20T01:26:34.000Z",
+      "dateEnd": "2026-08-20T02:26:40.000Z",
+      "dateLabel": "8/19/2026, 9:26:34 PM - 8/19/2026, 10:26:40 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260819-212634-i0ip",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260817-212626-5udi",
       "title": "Bitter Lemon Haem, Eryn Tyrell",
       "commanders": [
