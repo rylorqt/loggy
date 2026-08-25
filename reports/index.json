@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-212012-5naw",
+      "title": "Bitter Lemon Haem, Eryn Tyrell",
+      "commanders": [
+        "Bitter Lemon Haem",
+        "Eryn Tyrell"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-08-25T01:20:12.000Z",
+      "dateEnd": "2026-08-25T02:20:37.712Z",
+      "dateLabel": "8/24/2026, 9:20:12 PM - 8/24/2026, 10:20:37 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260824-212012-5naw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260821-230339-35an",
       "title": "No Stab Allowed",
       "commanders": [
