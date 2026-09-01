@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-220643-1jdg",
+      "title": "Bitter Lemon Haem",
+      "commanders": [
+        "Bitter Lemon Haem"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-01T02:06:43.000Z",
+      "dateEnd": "2026-09-01T02:50:42.769Z",
+      "dateLabel": "8/31/2026, 10:06:43 PM - 8/31/2026, 10:50:42 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260831-220643-1jdg",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260830-212108-md3i",
       "title": "Super Soaker Star",
       "commanders": [
