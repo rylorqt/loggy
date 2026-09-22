@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260921-212543-lio4",
+      "title": "Bitter Lemon Haem",
+      "commanders": [
+        "Bitter Lemon Haem"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-22T01:25:43.000Z",
+      "dateEnd": "2026-09-22T01:58:31.185Z",
+      "dateLabel": "9/21/2026, 9:25:43 PM - 9/21/2026, 9:58:31 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260921-212543-lio4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260921-211900-6ofa",
       "title": "Bitter Lemon Haem",
       "commanders": [
