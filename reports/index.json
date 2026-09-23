@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260922-191455-3txx",
+      "title": "Super Soaker Star",
+      "commanders": [
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-09-22T23:14:55.000Z",
+      "dateEnd": "2026-09-23T00:04:19.340Z",
+      "dateLabel": "9/22/2026, 7:14:55 PM - 9/22/2026, 8:04:19 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20260922-191455-3txx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260921-210811-dk5d",
       "title": "Bitter Lemon Haem",
       "commanders": [
