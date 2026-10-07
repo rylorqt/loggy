@@ -1,9 +1,48 @@
 {
   "colorPalette": "teal-ocean",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-214012-audb",
+      "title": "Kxdasai, Super Soaker Star",
+      "commanders": [
+        "Kxdasai",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-07T01:40:12.000Z",
+      "dateEnd": "2026-10-07T02:36:08.145Z",
+      "dateLabel": "10/6/2026, 9:40:12 PM - 10/6/2026, 10:36:08 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261006-214012-audb",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0.7368421052631579,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 32
+      }
+    },
     {
       "id": "20261005-214648-mf5m",
       "title": "Crippling Anquish",
