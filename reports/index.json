@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261007-215541-td2r",
+      "title": "Eryn Tyrell",
+      "commanders": [
+        "Eryn Tyrell"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-08T01:55:41.000Z",
+      "dateEnd": "2026-10-08T02:52:33.803Z",
+      "dateLabel": "10/7/2026, 9:55:41 PM - 10/7/2026, 10:52:33 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261007-215541-td2r",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0.03571428571428571,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261006-214012-audb",
       "title": "Kxdasai, Super Soaker Star",
       "commanders": [
