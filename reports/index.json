@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261013-222047-xijh",
+      "title": "Super Soaker Star",
+      "commanders": [
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-14T02:20:47.000Z",
+      "dateEnd": "2026-10-14T02:58:53.302Z",
+      "dateLabel": "10/13/2026, 10:20:47 PM - 10/13/2026, 10:58:53 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261013-222047-xijh",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20261012-222009-7zdj",
       "title": "Crippling Anquish",
       "commanders": [
