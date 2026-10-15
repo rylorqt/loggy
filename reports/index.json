@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261014-222309-0h2m",
+      "title": "Eryn Tyrell",
+      "commanders": [
+        "Eryn Tyrell"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-15T02:23:09.000Z",
+      "dateEnd": "2026-10-15T02:52:26.018Z",
+      "dateLabel": "10/14/2026, 10:23:09 PM - 10/14/2026, 10:52:26 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261014-222309-0h2m",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20261014-211932-jqxu",
       "title": "Eryn Tyrell",
       "commanders": [
