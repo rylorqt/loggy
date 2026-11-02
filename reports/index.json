@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261101-222126-dkx1",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-02T03:21:26.000Z",
+      "dateEnd": "2026-11-02T04:01:46.792Z",
+      "dateLabel": "11/1/2026, 10:21:26 PM - 11/1/2026, 11:01:46 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261101-222126-dkx1",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0.1282051282051282,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20261026-215654-b5iv",
       "title": "Crippling Anquish",
