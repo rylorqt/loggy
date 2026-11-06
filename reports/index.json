@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261105-213705-7rr8",
+      "title": "Strikey M",
+      "commanders": [
+        "Strikey M"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-06T02:37:05.000Z",
+      "dateEnd": "2026-11-06T03:40:12.571Z",
+      "dateLabel": "11/5/2026, 9:37:05 PM - 11/5/2026, 10:40:12 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261105-213705-7rr8",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 21
+      }
+    },
     {
       "id": "20261102-220614-0mbv",
       "title": "Crippling Anquish",
