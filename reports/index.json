@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261111-220825-ppw2",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-12T03:08:25.000Z",
+      "dateEnd": "2026-11-12T03:39:04.375Z",
+      "dateLabel": "11/11/2026, 10:08:25 PM - 11/11/2026, 10:39:04 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261111-220825-ppw2",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261109-213211-aesh",
       "title": "Crippling Anquish",
       "commanders": [
