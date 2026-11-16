@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261115-222104-c8yz",
+      "title": "Strikey M",
+      "commanders": [
+        "Strikey M"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-16T03:21:04.000Z",
+      "dateEnd": "2026-11-16T03:48:32.974Z",
+      "dateLabel": "11/15/2026, 10:21:04 PM - 11/15/2026, 10:48:32 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261115-222104-c8yz",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 41,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20261111-220825-ppw2",
       "title": "No Stab Allowed",
