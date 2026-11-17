@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261116-222155-ag90",
+      "title": "Crippling Anquish",
+      "commanders": [
+        "Crippling Anquish"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-11-17T03:21:55.000Z",
+      "dateEnd": "2026-11-17T03:57:32.565Z",
+      "dateLabel": "11/16/2026, 10:21:55 PM - 11/16/2026, 10:57:32 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261116-222155-ag90",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261115-222104-c8yz",
       "title": "Strikey M",
       "commanders": [
