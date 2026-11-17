@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261116-212803-z5m4",
+      "title": "Crippling Anquish",
+      "commanders": [
+        "Crippling Anquish"
+      ],
+      "guild": {
+        "id": "969A9F02-44FF-46C9-89E7-7346353CF05F",
+        "name": "Legends Never",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-11-17T02:28:03.000Z",
+      "dateEnd": "2026-11-17T03:15:16.568Z",
+      "dateLabel": "11/16/2026, 9:28:03 PM - 11/16/2026, 10:15:16 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261116-212803-z5m4",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261116-222155-ag90",
       "title": "Crippling Anquish",
       "commanders": [
