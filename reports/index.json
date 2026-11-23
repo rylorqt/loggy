@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-213317-zavu",
+      "title": "Strikey M",
+      "commanders": [
+        "Strikey M"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-11-23T02:33:17.000Z",
+      "dateEnd": "2026-11-23T03:41:41.308Z",
+      "dateLabel": "11/22/2026, 9:33:17 PM - 11/22/2026, 10:41:41 PM",
+      "url": "https://rylorqt.github.io/loggy/?report=20261122-213317-zavu",
+      "publishedBy": "rylorqt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20261116-212803-z5m4",
       "title": "Crippling Anquish",
       "commanders": [
